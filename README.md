@@ -18,6 +18,7 @@
 | ![CSS3 logo](https://img.icons8.com/color/24/css3.png) **CSS**   | Styling and layout |
 | ![Bootstrap logo](https://img.icons8.com/color/24/bootstrap.png) **Bootstrap** | Responsive design framework |
 | ![JavaScript logo](https://img.icons8.com/color/24/javascript--v1.png) **JavaScript** | Interactivity and logic |
+| ![React logo](https://img.icons8.com/color/24/react-native.png) | **React** | Frontend UI framework |
 | ![VS Code logo](https://img.icons8.com/color/24/visual-studio-code-2019.png) **VS Code** | Code editor used |
 
 ## 🌟 Features
