@@ -23,17 +23,17 @@
 
 ## 🌟 Features
 
-- 🔐 **User Authentication** – Secure Sign Up and Sign In
-- 📊 **Dashboard**
+🔐 **User Authentication** – Secure Sign Up and Sign In
+📊 **Dashboard**
   - Overview of your financial status
   - **Pie charts** showing income vs expenses
   - **Summary cards** for total income, total expenses, and current balance
-- 🧾 **Transaction History** – Scrollable list of past transactions with filtering
-- ➕ **New Transaction** – Add income or expense with category and date
-- 💾 **Saved Transactions** – Quickly reuse frequently added transactions
-- 📈 **Reports**
+🧾 **Transaction History** – Scrollable list of past transactions with filtering
+➕ **New Transaction** – Add income or expense with category and date
+💾 **Saved Transactions** – Quickly reuse frequently added transactions
+📈 **Reports**
   - Visual **line graph** showing financial trends over time
-- ⚙️ **Settings** – Customize user preferences and account details
+⚙️ **Settings** – Customize user preferences and account details
 
 ---
 
